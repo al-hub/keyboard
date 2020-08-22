@@ -13,4 +13,4 @@ https://www.reddit.com/r/AnnePro/comments/9ba8pn/anne_pro_2_bluetooth_will_not_c
 http://www.easyblue.co.kr/product/product.html
 
 You case see programe at 
-
+![easyblue_program](easyblue.png)
