@@ -16,6 +16,15 @@ You case see programe at
 ![easyblue_program](easyblue.png)
 
 
+## synergy for 32bits
+If you use 32 bits OS, you can use this for software KVM.  
+synergy-v1.8.8-stable-Windows-x86.msi
+https://sourceforge.net/projects/synergy-stable-builds/files/v1.8.8-stable/
+
+## barrier
+https://github.com/debauchee/barrier  
+
+
 ## ahk
 https://github.com/al-hub/ahk/blob/master/660m.ahk  
 
