@@ -30,3 +30,14 @@ https://github.com/al-hub/ahk/blob/master/660m.ahk
 
 ## across  
 http://www.acrosscenter.com
+
+||windows|android|
+|---|---|---|
+|0.prepare program|server|client|
+|1.bt connection|win+r → ms-settings:bluetooth → +Bluetooth or other device add → Bluetooth → Galaxy S10||
+|2.across connection|||
+||||
+||||
+||||
+||||
+
