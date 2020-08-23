@@ -1,5 +1,16 @@
 # keyboard
 
+## FC660M
+http://www.leaderskey.com/shop/item.php?it_id=1508494426  
+about $100
+
+## COX CK87  
+http://www.coxenc.co.kr/sub/product/product_view.aspx?no=259  
+about $44.51
+
+## K660 ARC 
+https://abkoncore.com/post/523
+about $40.40
 
 ## Anne Pro 2  
 http://en.obins.net/obinskit  
