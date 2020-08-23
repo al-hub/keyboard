@@ -3,6 +3,7 @@
 
 ## Anne Pro 2  
 http://en.obins.net/obinskit  
+about $90
 
 How to bluetooth paraing  
 FN2 + 1 or 2 or 3 or 4 pressing for 5 sec    
