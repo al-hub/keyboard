@@ -11,6 +11,7 @@ https://www.reddit.com/r/AnnePro/comments/9ba8pn/anne_pro_2_bluetooth_will_not_c
 
 ## EasyBlue  
 http://www.easyblue.co.kr/product/product.html
+$32.22
 
 You case see programe at 
 ![easyblue_program](easyblue.png)
