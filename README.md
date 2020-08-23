@@ -9,7 +9,7 @@ http://www.coxenc.co.kr/sub/product/product_view.aspx?no=259
 about $44.51
 
 ## K660 ARC 
-https://abkoncore.com/post/523
+https://abkoncore.com/post/523  
 about $40.40
 
 ## Anne Pro 2  
@@ -22,7 +22,7 @@ https://www.reddit.com/r/AnnePro/comments/9ba8pn/anne_pro_2_bluetooth_will_not_c
 
 
 ## EasyBlue  
-http://www.easyblue.co.kr/product/product.html
+http://www.easyblue.co.kr/product/product.html  
 $32.22
 
 You case see programe at 
@@ -45,7 +45,7 @@ extend your windows pc screen to android phone/tablet
 https://github.com/al-hub/ahk/blob/master/660m.ahk  
 
 ## across  
-http://www.acrosscenter.com
+http://www.acrosscenter.com  
 $22.99 for 1year
 
 ||windows|android|
