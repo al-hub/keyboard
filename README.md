@@ -33,6 +33,7 @@ https://github.com/al-hub/ahk/blob/master/660m.ahk
 
 ## across  
 http://www.acrosscenter.com
+$22.99 for 1year
 
 ||windows|android|
 |:---|:---:|:---:|
