@@ -30,16 +30,13 @@ You case see programe at
 
 
 ## synergy for 32bits
-https://sourceforge.net/projects/synergy-stable-builds/files/v1.8.8-stable/
+https://sourceforge.net/projects/synergy-stable-builds/files/v1.8.8-stable/  
 If you use 32 bits OS, you can use this for software KVM.  
 synergy-v1.8.8-stable-Windows-x86.msi
 
 ## barrier
 https://github.com/debauchee/barrier  
 
-## spacedesk
-https://spacedesk.net/##box_434
-extend your windows pc screen to android phone/tablet
 
 ## ahk
 https://github.com/al-hub/ahk/blob/master/660m.ahk  
@@ -56,3 +53,6 @@ $22.99 for 1year
 ||![win_set2](across_windows_bt2.png)||
 ||![win_set3](across_windows_bt3.png)|![android_set3](across_android_bt3.jpg)|
 
+## spacedesk
+https://spacedesk.net/##box_434  
+extend your windows pc screen to android phone/tablet
