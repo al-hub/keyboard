@@ -19,6 +19,7 @@ about $90
 How to bluetooth paraing  
 FN2 + 1 or 2 or 3 or 4 pressing for 5 sec    
 https://www.reddit.com/r/AnnePro/comments/9ba8pn/anne_pro_2_bluetooth_will_not_connect/  
+limitation: arrow-key pressing  
 
 ## 씽크패드 트랙포인트 키보드 II  
 https://ksunghyun.tistory.com/268  
