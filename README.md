@@ -29,6 +29,9 @@ limitation: arrow-key pressing
 https://ksunghyun.tistory.com/268  
 about $100  
 
+## 로지텍사운드
+https://www.logitechg.com/ko-kr/innovation/mechanical-switches.html  
+
 ## EasyBlue  
 http://www.easyblue.co.kr/product/product.html  
 $32.22
