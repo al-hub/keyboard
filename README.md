@@ -1,7 +1,7 @@
 # keyboard
 
-[hanme](https://archive.org/embed/httd_preservation)  
-[hancom](https://archive.org/embed/htt305_20211230_1422)  
+[hancom](https://archive.org/embed/httd_preservation)  
+[hanme](https://archive.org/embed/htt305_20211230_1422)  
 [typing.works](https://typing.works)
 
 ## FC660M
