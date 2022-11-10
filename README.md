@@ -7,6 +7,8 @@ about $100
 ## COX CK87  
 http://www.coxenc.co.kr/sub/product/product_view.aspx?no=259  
 about $44.51
+FN+INS : switch light mode  
+FN+F10 : toggle backlight  
 
 ## ABKO K660 ARC 
 https://abkoncore.com/post/523  
