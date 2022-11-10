@@ -5,7 +5,7 @@ http://www.leaderskey.com/shop/item.php?it_id=1508494426
 about $100
 
 ## COX CK87  
-http://www.coxenc.co.kr/sub/product/product_view.aspx?no=259  
+https://www.abko.co.kr/brand/detail.php?it_id=1633419570
 about $44.51
 FN+INS : switch light mode  
 FN+F10 : toggle backlight  
