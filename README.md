@@ -82,3 +82,16 @@ $22.99 for 1year
 ## spacedesk
 https://spacedesk.net/##box_434  
 extend your windows pc screen to android phone/tablet
+
+
+## windows 11
+더많은옵션보기끄기[https://jujun.tistory.com/331]
+```
+1. cmd.exe(명령 프롬프트) 창을 띄웁니다.
+2. 레지스트리에 항목 추가
+    > reg.exe add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /f /ve
+3. 추가한 레지스트리가 바로 적용 받을 수 있도록 explorer(파일 탐색기) 태스크 강제 종료
+    > taskkill /f /im explorer.exe
+4. explorer(파일 탐색기) 다시 실행
+    > explorer
+```
