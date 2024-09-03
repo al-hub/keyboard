@@ -29,7 +29,7 @@ http://en.obins.net/obinskit
 about $90
 
 ## 8Bitdo Retro84 C64
-https://smartstore.naver.com/daonzik9/products/10714348281
+https://smartstore.naver.com/daonzik9/products/10714348281  
 about $100
 
 How to bluetooth paraing  
