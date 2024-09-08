@@ -9,8 +9,8 @@ http://www.leaderskey.com/shop/item.php?it_id=1508494426
 about $100
 
 ## COX CK87  
-https://www.abko.co.kr/brand/detail.php?it_id=1633419570
-about $44.51
+https://www.abko.co.kr/brand/detail.php?it_id=1633419570  
+about $44.51  
 FN+INS : switch light mode  
 FN+F10 : toggle backlight  
 FN+up : increase brightness  
@@ -21,28 +21,28 @@ https://abkoncore.com/post/523
 about $40.40
 
 ## ABKO K150 
-about $10.00
-membrane tenkey-less
+about $10.00  
+membrane tenkey-less  
 
 ## Anne Pro 2  
 http://en.obins.net/obinskit  
-about $90
-
-## 8Bitdo Retro84 C64
-https://smartstore.naver.com/daonzik9/products/10714348281  
-about $100
+about $90  
 
 How to bluetooth paraing  
 FN2 + 1 or 2 or 3 or 4 pressing for 5 sec    
 https://www.reddit.com/r/AnnePro/comments/9ba8pn/anne_pro_2_bluetooth_will_not_connect/  
 limitation: arrow-key pressing  
 
-Backlighting
+Backlighting  
 FN2+8 : battery level (green/read)  
 FN2+9 : switch light mode  
 FN2+0 : toggle backlight  
 FN2+- : decrease brightness  
 FN2++ : increase brightness  
+
+## 8Bitdo Retro84 C64  
+https://smartstore.naver.com/daonzik9/products/10714348281  
+about $100  
 
 ## 씽크패드 트랙포인트 키보드 II  
 https://ksunghyun.tistory.com/268  
