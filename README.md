@@ -1,9 +1,10 @@
-# keyboard
+# keyboard app
 
 [hancom](https://archive.org/embed/httd_preservation)  
 [hanme](https://archive.org/embed/htt305_20211230_1422)  
 [typing.works](https://typing.works)
 
+# HW
 ## FC660M
 http://www.leaderskey.com/shop/item.php?it_id=1508494426  
 about $100
@@ -58,6 +59,9 @@ $32.22
 You case see programe at 
 ![easyblue_program](easyblue.png)
 
+# SW
+## Input Director
+The best in windows
 
 ## synergy for 32bits
 https://sourceforge.net/projects/synergy-stable-builds/files/v1.8.8-stable/  
